@@ -14,7 +14,5 @@ git commit -m "Add instruction to README.md"
 git push origin development
 git checkout main
 git merge development
-git push 
-
-
+git push -u origin main
 
