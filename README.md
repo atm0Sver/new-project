@@ -11,6 +11,10 @@ git checkout -b development
 notepad README.md
 git add .
 git commit -m "Add instruction to README.md"
+git push origin development
 git checkout main
 git merge development
-git push -u origin main
+git push 
+
+
+
